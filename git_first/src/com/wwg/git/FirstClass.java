@@ -13,4 +13,8 @@ public class FirstClass
         int i=0;
         i+=10;
     }
+    public void test1(){
+        int i1=0;
+        i1+=10;
+    }
 }
